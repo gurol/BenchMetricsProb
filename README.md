@@ -11,6 +11,8 @@ The proposed method was tested on 30 probabilistic error instruments given in th
 
 __**Note**__: Please, cite my article if you would like to use and/or adapt the tool, simulation cases, methodology, and other materials provided and [let me know](mailto:gurol44@gmail.com?subject=Meta-Metrics-Prob). Thank you for your interest.
 
+![](images/BenchMetricsProb.png)
+
 | Subtype                  | Instrument Name                                       | Abbreviation |
 |--------------------------|-------------------------------------------------------|--------------|
 | (Raw)                    | Mean Error                                            | ME           |
