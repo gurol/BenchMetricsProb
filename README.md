@@ -3,7 +3,7 @@
 
 [![Last-changedate](https://img.shields.io/badge/last%20change-2021--01--19-brightgreen.svg)](https://github.com/gurol/BenchMetricsProb) [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)  [![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9337--097X-green.svg)](https://orcid.org/0000-0002-9337-097X)
 
-> [Gürol Canbek](http:gurol.canbek.com/Publications) (2021). BenchMetrics Prob: Benchmarking of probabilistic error/loss performance evaluation instruments for binary-classification problems. ***Knowledge and Information Systems (KAIS)***, Springer, Submitted
+> [Gürol Canbek](http:gurol.canbek.com/Publications) (2021). Benchmarking of probabilistic error/loss performance evaluation instruments for binary-classification problems. ***Knowledge and Information Systems (KAIS)***, Springer, Submitted
 
 This repository provides BenchMetrics Prob probabilistic error/loss instrument calculator and simulation tool for benchmarking the robustness of 31 probabilistic error/loss measures/metrics via five criteria and seven simulation cases proposed in my article above.
 
